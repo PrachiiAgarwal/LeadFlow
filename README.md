@@ -586,8 +586,7 @@ The original lead-management application was extended for Task 2 with:
 # Loom Walkthrough
 
 Loom demonstration:
-
-Add Loom URL here
+c:\Users\prachi\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState\Recordings\20260725-1605-13.7465850.mp4
 
 The walkthrough demonstrates the complete flow from public form submission through administrator authentication and lead status management.
 
